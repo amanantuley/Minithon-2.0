@@ -1,21 +1,24 @@
+Here’s the corrected README for **Smart Café**:  
 
-# 🎓 **Smart Campus - Minithon 2.0 Project**  
+---
+
+# ☕ **Smart Café - Minithon 2.0 Project**  
 🌟 **Award-Winning Project**: Proudly selected among the **Top 15** at **Minithon 2.0**, a hackathon celebrating innovation and problem-solving!  
 
 ---
 
 ## ✨ **About the Project**  
-🚀 **Smart Campus** is a modern and interactive web-based solution designed to enhance campus management and improve the student experience. From seamless communication to resource optimization, our project aims to revolutionize how campuses operate.  
+🚀 **Smart Café** is a modern web-based solution designed to transform the café experience. With a focus on efficiency and customer satisfaction, our platform streamlines café operations, enhances order management, and creates a seamless experience for customers and staff alike.  
 
 💡 **Key Features**:  
-- 🔔 **Real-Time Notifications**: Keeping students and faculty informed about important updates.  
-- 🗂️ **Centralized Information Hub**: Easy access to campus resources, schedules, and announcements.  
-- 🌐 **User-Friendly Interface**: Designed with simplicity and usability in mind.  
+- 📋 **Digital Menu**: Interactive menu for easy browsing and customization of orders.  
+- 🛍️ **Order Management**: Simplified order placement and tracking for customers and staff.  
+- ⏱️ **Real-Time Updates**: Notifications for order status and estimated preparation time.  
 
 ---
 
 ## 🛠️ **Technologies Used**  
-Here’s a glimpse of the tech stack powering our **Smart Campus**:  
+Here’s a glimpse of the tech stack powering **Smart Café**:  
 - 💻 **HTML, CSS, JavaScript**  
 - 🌐 **React.js**  
 - ⚙️ **Node.js** (or any backend technology you used)  
@@ -38,8 +41,8 @@ Here’s a glimpse of the tech stack powering our **Smart Campus**:
 ---
 
 ## 🤝 **Collaborators**  
-A special thanks to the amazing team that brought **Smart Campus** to life:  
-- 🎨 **[Your Name]**  
+A special thanks to the amazing team that brought **Smart Café** to life:  
+- 🎨 **[Aman Antuley]**  
 - 💻 **[Contributor Name]**  
 
 ---
@@ -50,4 +53,8 @@ A special thanks to the amazing team that brought **Smart Campus** to life:
 ---
 
 ### 🔗 **Connect with Us**  
-🌍 Feel free to explore, connect, or contribute to make **Smart Campus** even better!  
+🌍 Feel free to explore, connect, or contribute to make **Smart Café** even better!  
+
+--- 
+
+Let me know if this works or needs any additional adjustments! 🚀
