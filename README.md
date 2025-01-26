@@ -1,6 +1,3 @@
-Here’s the corrected README for **Smart Café**:  
-
----
 
 # ☕ **Smart Café - Minithon 2.0 Project**  
 🌟 **Award-Winning Project**: Proudly selected among the **Top 15** at **Minithon 2.0**, a hackathon celebrating innovation and problem-solving!  
@@ -55,6 +52,4 @@ A special thanks to the amazing team that brought **Smart Café** to life:
 ### 🔗 **Connect with Us**  
 🌍 Feel free to explore, connect, or contribute to make **Smart Café** even better!  
 
---- 
 
-Let me know if this works or needs any additional adjustments! 🚀
